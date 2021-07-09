@@ -1,6 +1,6 @@
 
 <p>
-<img  width="140" height="160" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/>
+<img  width="140" height="150" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png">
 <br/>Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: Sao José dos Campos -SP<br/>
 Endereço: AV. Benedito Domingues, 46
@@ -48,12 +48,12 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
   
 ### <b><font COLOR="000000" size="6">Experiência de voluntariado</font><br/></b>
   
-<img align="left" width="130" height="140" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
+<img align="left" width="120" height="125" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg">
 &nbsp;&nbsp;&nbsp;<b>AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
-&nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência &nbsp;profissional que integra teoria e prática, estou desenvolvendo com  &nbsp;a equipe o projeto elétrico e dando suporte nas demais áreas do &nbsp;projeto desde as fases iniciais até a construção final da aeronave.<i/>
+&nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou &nbsp;&nbsp;&nbsp;desenvolvendo com a equipe o projeto elétrico e dando suporte nas demais áreas do projeto desde as fases &nbsp;&nbsp;&nbsp;iniciais &nbsp;até a construção final da aeronave.<br/><br/>
 
-<img align="left" alt=etep width="130" height="140" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg"><br/><br/>
+<img align="left" alt=etep width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Diretor de esportes<br/>
-&nbsp;<i>Descrição: Como diretor de esportes busco incentivar a interação e &nbsp;integração dos alunos através da prática esportiva.<i/>
+&nbsp;&nbsp;&nbsp;Descrição: Como diretor de esportes busco incentivar a interação e integração dos alunos através da prática &nbsp;&nbsp;&nbsp;esportiva.
