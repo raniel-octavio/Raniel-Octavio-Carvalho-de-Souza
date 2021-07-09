@@ -12,7 +12,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
 -Github: https://github.com/raniel-octavio</font><br/>
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# &nbsp;&nbsp;&nbsp;&nbsp;<b><font COLOR="#000080" size="6">Formação Acadêmica</font></b><br/>
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font COLOR="#000080" size="6">Formação Acadêmica</font></b><br/>
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 <b>ETEP - Centro Universitário<br/><b/>
 Engenharia da Computação<br/>
