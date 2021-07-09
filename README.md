@@ -1,11 +1,11 @@
 
 <p>
-<img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png">
-<br/><font COLOR="#000000"Brasileiro - Solteiro - 29 anos<br/> 
+<img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/>
+<font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: Sao José dos Campos -SP<br/>
 Endereço: AV. Benedito Domingues, 46
-Bairro: Jd. Morumbi,<br/>Sao José dos Campos - SP, Cep: 12236700. <br/><br/>
-</p></font>
+Bairro: Jd. Morumbi,<br/>Sao José dos Campos - SP, Cep: 12236700.</font><br/><br/>
+</p>
 
 <i><b><font COLOR="#000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
@@ -22,36 +22,36 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">ETEP - Centro Universitário<br/><b/>
 &nbsp;&nbsp;&nbsp;Engenharia da Computação<br/>
-&nbsp;&nbsp;&nbsp;2020-2025<br/><br/></font>
+&nbsp;&nbsp;&nbsp;2020-2025</font><br/><br/>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125009198-6a3c6500-e03a-11eb-91e9-84750606b443.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Udemy<br/><b/>
 &nbsp;&nbsp;&nbsp;Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
-&nbsp;&nbsp;&nbsp;2021-2021 - Cursando.<br/><br/></font>
+&nbsp;&nbsp;&nbsp;2021-2021 - Cursando.</font><br/><br/>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Digital Innovation One <br/>
 &nbsp;&nbsp;&nbsp;Introdução ao Git e ao Github.<br/>
-&nbsp;&nbsp;&nbsp;2021-2021<br/><br/></font>
+&nbsp;&nbsp;&nbsp;2021-2021</font><br/><br/>
 
 ### <b><font COLOR="#000000" size="6">Experiência</font><br/></b>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Panasonic do Brasil<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Auxiliar Industrial<br/>
-&nbsp;&nbsp;&nbsp;06/2020-o momento.<br/><br/></font>
+&nbsp;&nbsp;&nbsp;06/2020-o momento.</font><br/><br/>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">PDB Aerospace<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Montador<br/>
-&nbsp;&nbsp;&nbsp;08/2013-05/2016.<br/><br/></font>
+&nbsp;&nbsp;&nbsp;08/2013-05/2016.</font><br/><br/>
   
 ### <b><font COLOR="#000000" size="6">Experiência de voluntariado</font><br/></b>
   
 <img align="left" width="120" height="145" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg">
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
-&nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência<br/>&nbsp;&nbsp;&nbsp;profissional que integra teoria e prática, estou desenvolvendo com a<br/>&nbsp;&nbsp;&nbsp;equipe o projeto elétrico e apoiando as demais áreas do projeto<br/>&nbsp;&nbsp;&nbsp;desde as fases iniciais até a construção final da aeronave.<br/><br/>/font>
+&nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência<br/>&nbsp;&nbsp;&nbsp;profissional que integra teoria e prática, estou desenvolvendo com a<br/>&nbsp;&nbsp;&nbsp;equipe o projeto elétrico e apoiando as demais áreas do projeto<br/>&nbsp;&nbsp;&nbsp;desde as fases iniciais até a construção final da aeronave.</font><br/><br/>
 
 <img align="left" alt=etep width="120" height="105" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">ATLÉTICA ETEP<br/>
