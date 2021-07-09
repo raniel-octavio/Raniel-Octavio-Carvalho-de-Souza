@@ -1,14 +1,14 @@
-## <b>Raniel octavio carvalho de Souza</b>
+## <FONT size=+5<b>Raniel octavio carvalho de Souza<br/><FONT/>
 
-Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.</br>
-Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.</br>
-Minha atuação na área industrial desenvolvendo o controle e operação de máquinas e controle de ferramentas, podem contribuir para a nova área de atuação como a capacidade de resolução de problemas, comprometimento e organização.</br>
-Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</br>
+Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
+Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
+Minha atuação na área industrial desenvolvendo o controle e operação de máquinas e controle de ferramentas, podem contribuir para a nova área de atuação como a capacidade de resolução de problemas, comprometimento e organização.<br/>
+Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.<br/>
 
--Email: raniel_sjc@yahoo.com.br</br>
--Tel/WhatsApp: (12) 98859-4301</br>
--Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/</br>
--Github: https://github.com/raniel-octavio</br>
+-Email: raniel_sjc@yahoo.com.br<br/>
+-Tel/WhatsApp: (12) 98859-4301<br/>
+-Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
+-Github: https://github.com/raniel-octavio<br/>
 
 ### Markdown
 
