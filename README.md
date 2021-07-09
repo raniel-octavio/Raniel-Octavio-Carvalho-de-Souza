@@ -1,4 +1,4 @@
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="250" height="370" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/><br/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="150" height="200" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/><br/><br/><br/><br/><br/><br/><br/>
   
 <b><font FACE= "MrsEaves" COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
 
