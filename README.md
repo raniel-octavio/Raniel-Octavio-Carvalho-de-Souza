@@ -1,3 +1,4 @@
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/>
 
 # <b><font size="6">Raniel octavio carvalho de Souza</font></b><br/>
 
