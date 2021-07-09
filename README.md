@@ -1,4 +1,4 @@
-<font>
+
 <p>
 <img  width="100" height="110" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png">
 Brasileiro - Solteiro - 29 anos<br/> 
