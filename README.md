@@ -15,35 +15,36 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 ### <b><font COLOR="#000080" size="6">Formação Acadêmica</font><br/></b>
   
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
-<b>ETEP - Centro Universitário<br/><b/>
-Engenharia da Computação<br/>
-2020-2025<br/>
+&nbsp;<b>ETEP - Centro Universitário<br/><b/>
+&nbsp;Engenharia da Computação<br/>
+&nbsp;2020-2025<br/>
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009198-6a3c6500-e03a-11eb-91e9-84750606b443.jpg"><br/>
-<b>Udemy<br/><b/>
-Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
-2021-2021 - Cursando.<br/>
+&nbsp;<b>Udemy<br/><b/>
+&nbsp;Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
+&nbsp;2021-2021 - Cursando.<br/>
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/>
-<b>Digital Innovation One <br/>
-Introdução ao Git e ao Github.<br/>
-2021-2021<br/>
+&nbsp;<b>Digital Innovation One <br/>
+&nbsp;Introdução ao Git e ao Github.<br/>
+&nbsp;2021-2021<br/>
 
 ### <b><font COLOR="#000080" size="6">Experiência</font><br/></b>
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
-<b>Panasonic do Brasil <br/>
-Cargo: Auxiliar Industrial<br/>
-06/2020-o momento.<br/>
+&nbsp;<b>Panasonic do Brasil <br/>
+&nbsp;Cargo: Auxiliar Industrial<br/>
+&nbsp;06/2020-o momento.<br/>
   
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png"><br/>
-<b>PDB Aerospace<br/>
-Cargo: Montador<br/>
-08/2013-05/2016.<br/>
+&nbsp;<b>PDB Aerospace<br/>
+&nbsp;Cargo: Montador<br/>
+&nbsp;08/2013-05/2016.<br/>
 
 ### <b><font COLOR="#000080" size="6">Experiência de voluntariado</font><br/></b>
+  
 <img align="left" width="130" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
-<b>AERO ETEP<br/>
-Cargo: Projetista Elétrico<br/>
-<i>Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou desenvolvendo juntamente com a equipe o projeto elétrico e acompanhando desde as fases iniciais do projeto até a construção final da aeronave.<i/>
-08/2013-05/2016.<br/>
+&nbsp;<b>AERO ETEP<br/>
+&nbsp;Cargo: Projetista Elétrico<br/>
+&nbsp;<i>Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou desenvolvendo juntamente com a equipe o projeto elétrico e acompanhando desde as fases iniciais do projeto até a construção final da aeronave.<i/>
+&nbsp;08/2013-05/2016.<br/>
