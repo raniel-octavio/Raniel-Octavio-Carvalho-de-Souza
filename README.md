@@ -18,7 +18,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
 -Github: https://github.com/raniel-octavio</font><br/></b>
 
-### <b><font COLOR="#000080" size="6">Formação Acadêmica</font><br/></b>
+### <b><font COLOR="000000" size="6">Formação Acadêmica</font><br/></b>
   
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>ETEP - Centro Universitário<br/><b/>
@@ -35,7 +35,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 &nbsp;&nbsp;&nbsp;Introdução ao Git e ao Github.<br/>
 &nbsp;&nbsp;&nbsp;2021-2021<br/>
 
-### <b><font COLOR="#000080" size="6">Experiência</font><br/></b>
+### <b><font COLOR="000000" size="6">Experiência</font><br/></b>
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
 &nbsp;&nbsp;&nbsp;<b>Panasonic do Brasil <br/>
