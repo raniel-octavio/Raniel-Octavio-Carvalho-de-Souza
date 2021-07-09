@@ -47,4 +47,3 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 &nbsp;<b>AERO ETEP<br/>
 &nbsp;Cargo: Projetista Elétrico<br/>
 &nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou desenvolvendo juntamente com a equipe o projeto elétrico e acompanhando desde as fases iniciais do projeto até a construção final da aeronave."<i/>
-&nbsp;08/2013-05/2016.<br/>
