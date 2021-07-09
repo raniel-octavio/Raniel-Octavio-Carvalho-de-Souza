@@ -51,7 +51,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 <img align="left" width="120" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg">
 &nbsp;&nbsp;&nbsp;<b>AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
-&nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática,<br/>&nbsp;&nbsp;&nbsp;estou desenvolvendo com a equipe o projeto elétrico e dando suporte nas demais áreas do projeto<br/>&nbsp;&nbsp;&nbsp;desde as fases iniciais até a construção final da aeronave.<br/><br/><br/>
+&nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência<br/>&nbsp;&nbsp;&nbsp;profissional que integra teoria e prática, estou desenvolvendo com a equipe o projeto elétrico e apoiando<br/>&nbsp;&nbsp;&nbsp;as demais áreas do projeto desde as fases iniciais até a construção final da aeronave.<br/><br/><br/>
 
 <img align="left" alt=etep width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
