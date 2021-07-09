@@ -21,7 +21,7 @@ Engenharia da Computação<br/>
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009198-6a3c6500-e03a-11eb-91e9-84750606b443.jpg"><br/><br/>
 <b>Udemy<br/><b/>
 Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
-2021-2021 - Cursando.
+2021-2021 - Cursando.<br/>
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/><br/><br/>
 <b>Digital Innovation One <br/>
