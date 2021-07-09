@@ -1,6 +1,6 @@
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="150" height="180" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/>&nbsp;<br/><br/><br/>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="150" height="180" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/>
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
+# <b><font COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
 
 <font size="4">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
