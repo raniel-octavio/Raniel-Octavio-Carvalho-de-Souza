@@ -1,17 +1,17 @@
   
-# <b><font FACE= "MrsEaves" COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
+### <b><font COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
 
-<i><p><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
+<i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
 Minha atuação na área industrial desenvolvendo o controle e operação de máquinas e controle de ferramentas, podem contribuir para a nova área de atuação como a capacidade de resolução de problemas, comprometimento e organização.<br/>
-Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</font><br/><p/><i/>
+Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</font><br/><i/>
 
-<b><p><font COLOR="000000" size="3">-Email: raniel_sjc@yahoo.com.br<br/>
+<b><font COLOR="000000" size="3">-Email: raniel_sjc@yahoo.com.br<br/>
 -Tel/WhatsApp: (12) 991462406 / (12) 98859-4301<br/>
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
--Github: https://github.com/raniel-octavio</font><br/><p/></b>
+-Github: https://github.com/raniel-octavio</font><br/></b>
 
-<b><font FACE= "MrsEaves" COLOR="#000080" size="6">Formação Acadêmica</font><br/></b>
+### <b><font COLOR="#000080" size="6">Formação Acadêmica</font><br/></b>
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 <b>ETEP - Centro Universitário<br/><b/>
 Engenharia da Computação<br/>
