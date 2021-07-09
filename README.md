@@ -13,17 +13,17 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 -Github: https://github.com/raniel-octavio</font><br/><p/></b>
 
 <b><font FACE= "MrsEaves" COLOR="#000080" size="6">Formação Acadêmica</font></b><br/>
-<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/><br/>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 <b>ETEP - Centro Universitário<br/><b/>
 Engenharia da Computação<br/>
 2020-2025<br/>
 
-<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009198-6a3c6500-e03a-11eb-91e9-84750606b443.jpg"><br/><br/>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009198-6a3c6500-e03a-11eb-91e9-84750606b443.jpg"><br/>
 <b>Udemy<br/><b/>
 Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
 2021-2021 - Cursando.<br/>
 
-<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/><br/><br/><br/><br/>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/>
 <b>Digital Innovation One <br/>
 Introdução ao Git e ao Github.<br/>
 2021-2021<br/>
