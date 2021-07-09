@@ -8,7 +8,7 @@ Minha atuação na área industrial desenvolvendo o controle e operação de má
 Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</font><br/>
 
 <font size="4">-Email: raniel_sjc@yahoo.com.br<br/>
--Tel/WhatsApp: (12) 98859-4301<br/>
+-Tel/WhatsApp: (12) 991462406 / (12) 98859-4301<br/>
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
 -Github: https://github.com/raniel-octavio</font><br/>
 
