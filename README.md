@@ -1,10 +1,12 @@
 <font>
-<br/><br/><br/><br/><p><img align="right" width="100" height="110" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"<br/>
+<p>
+<img align="right" width="100" height="110" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"<br/>
 Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: Sao José dos Campos -SP<br/>
 Endereço: AV. Benedito Domingues Oliveira, 46
 Bairro: Jd. Morumbi, Sao José dos Campos - SP, Cep: 12236700.<br/> 
-Email: ranieI_sjc@yahoo.com.br </font></p><br/><br/>
+Email: ranieI_sjc@yahoo.com.br </font><br/><br/>
+</p>
 
 <i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
