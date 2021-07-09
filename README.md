@@ -1,4 +1,4 @@
-## <font size="+5">Raniel octavio carvalho de Souza</font><br/>
+<font size="+5">Raniel octavio carvalho de Souza</font><br/>
 
 Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
