@@ -51,4 +51,4 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 <img align="left" width="130" height="140" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Diretor de esportes<br/>
-&nbsp;<i>Descrição: Como diretor de esportes busco incentivar a &nbsp;interação e integração dos alunos através da prática esportiva."<i/>
+&nbsp;<i>Descrição: Como diretor de esportes busco incentivar a interação e &nbsp;integração dos alunos através da prática esportiva."<i/>
