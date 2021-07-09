@@ -1,6 +1,6 @@
 <img align="right" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125017001-ab3b7600-e048-11eb-964b-b15ceb707557.png"><br/><br/><br/>
   
-### <b><font COLOR="#000080" size="7">Raniel octavio carvalho de Souza</font></b><br/>
+### <b><font COLOR="#000080" size="6,5">Raniel octavio carvalho de Souza</font></b><br/>
 
 <i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
