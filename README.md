@@ -1,6 +1,5 @@
-<img align="right" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125017001-ab3b7600-e048-11eb-964b-b15ceb707557.png"><br/><br/><br/>
-  
-### <b><font COLOR="#000080" size="6,5">Raniel octavio carvalho de Souza</font></b><br/>
+<img align="right" width="100" height="110" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/><br/><br/><br/>
+ 
 
 <i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
@@ -46,7 +45,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 <img align="left" width="130" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
-&nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência profissional que &nbsp;integra teoria e prática, estou desenvolvendo juntamente com a equipe o &nbsp;projeto elétrico e acompanhando desde as fases iniciais do projeto até a &nbsp;construção final da aeronave."<i/>
+&nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência &nbsp;profissional que integra teoria e prática, estou desenvolvendo &nbsp;juntamente com a equipe o projeto elétrico e acompanhando desde &nbsp;as fases iniciais do projeto até a construção final da aeronave."<i/>
 
 <img align="left" width="130" height="140" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
