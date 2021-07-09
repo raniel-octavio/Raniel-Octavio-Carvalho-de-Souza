@@ -41,12 +41,10 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 &nbsp;&nbsp;&nbsp;Cargo: Auxiliar Industrial<br/>
 &nbsp;&nbsp;&nbsp;06/2020-o momento.<br/>
 
-<p>
-<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png">
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png"><b/>
 &nbsp;&nbsp;&nbsp;<b>PDB Aerospace<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Montador<br/>
-&nbsp;&nbsp;&nbsp;08/2013-05/2016.
-</p><br/>
+&nbsp;&nbsp;&nbsp;08/2013-05/2016.<b/>
   
 ### <b><font COLOR="000000" size="6">Experiência de voluntariado</font><br/></b>
   
