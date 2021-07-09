@@ -31,7 +31,7 @@ Introdução ao Git e ao Github.<br/>
 
 ### <b><font COLOR="#000080" size="6">Experiência</font><br/></b>
 
-<img align="left" width="120" height="100" src=" https://user-images.githubusercontent.com/83791169/125017722-1a659a00-e04a-11eb-802e-4821dc4a0cc2.gif"><br/>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
 <b>Panasonic do Brasil <br/>
 Cargo: Auxiliar Industrial<br/>
 06/2020-o momento.<br/>
@@ -40,9 +40,9 @@ Cargo: Auxiliar Industrial<br/>
 <b>PDB Aerospace<br/>
 Cargo: Montador<br/>
 08/2013-05/2016.<br/>
- 
+
 ### <b><font COLOR="#000080" size="6">Experiência de voluntariado</font><br/></b>
-<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
+<img align="left" width="130" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
 <b>AERO ETEP<br/>
 Cargo: Projetista Elétrico<br/>
 <i>Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou desenvolvendo juntamente com a equipe o projeto elétrico e acompanhando desde as fases iniciais do projeto até a construção final da aeronave.<i/>
