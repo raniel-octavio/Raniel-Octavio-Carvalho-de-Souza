@@ -48,12 +48,12 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
   
 ### <b><font COLOR="000000" size="6">Experiência de voluntariado</font><br/></b>
   
-<img align="left" width="120" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg">
+<img align="left" width="120" height="145" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg">
 &nbsp;&nbsp;&nbsp;<b>AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
 &nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência<br/>&nbsp;&nbsp;&nbsp;profissional que integra teoria e prática, estou desenvolvendo com a<br/>&nbsp;&nbsp;&nbsp;equipe o projeto elétrico e apoiando as demais áreas do projeto<br/>&nbsp;&nbsp;&nbsp;desde as fases iniciais até a construção final da aeronave.<br/><br/>
 
-<img align="left" alt=etep width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
+<img align="left" alt=etep width="120" height="105" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Diretor de esportes<br/>
 &nbsp;&nbsp;&nbsp;Descrição: Como diretor de esportes busco incentivar a interação e<br/>&nbsp;&nbsp;&nbsp;integração dos alunos através da prática esportiva.
