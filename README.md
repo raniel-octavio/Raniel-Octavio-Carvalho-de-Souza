@@ -10,7 +10,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
 -Github: https://github.com/raniel-octavio<br/>
 
-### Markdown
+# <b><font size="5">Formação Acadêmica</font></b><br/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
