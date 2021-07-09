@@ -13,6 +13,7 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 -Github: https://github.com/raniel-octavio</font><br/></b>
 
 ### <b><font COLOR="#000080" size="6">Formação Acadêmica</font><br/></b>
+  
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125009152-58f35880-e03a-11eb-8167-9caf93779f0f.jpg"><br/>
 <b>ETEP - Centro Universitário<br/><b/>
 Engenharia da Computação<br/>
@@ -28,7 +29,21 @@ Desenvolvedor Front-End WEB - Html5 - Bootstrap 4 e CSS3<br/>
 Introdução ao Git e ao Github.<br/>
 2021-2021<br/>
 
+### <b><font COLOR="#000080" size="6">Experiência</font><br/></b>
 
-
-### Jekyll Themes
-
+<img align="left" width="120" height="100" src=" https://user-images.githubusercontent.com/83791169/125017722-1a659a00-e04a-11eb-802e-4821dc4a0cc2.gif"><br/>
+<b>Panasonic do Brasil <br/>
+Cargo: Auxiliar Industrial<br/>
+06/2020-o momento.<br/>
+  
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png"><br/>
+<b>PDB Aerospace<br/>
+Cargo: Montador<br/>
+08/2013-05/2016.<br/>
+ 
+### <b><font COLOR="#000080" size="6">Experiência de voluntariado</font><br/></b>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
+<b>AERO ETEP<br/>
+Cargo: Projetista Elétrico<br/>
+<i>Neste projeto que visa fornecer uma experiência profissional que integra teoria e prática, estou desenvolvendo juntamente com a equipe o projeto elétrico e acompanhando desde as fases iniciais do projeto até a construção final da aeronave.<i/>
+08/2013-05/2016.<br/>
