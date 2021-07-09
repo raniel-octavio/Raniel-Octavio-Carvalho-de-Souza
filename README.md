@@ -7,10 +7,10 @@ Endereço: AV. Benedito Domingues, 46
 Bairro: Jd. Morumbi,<br/>Sao José dos Campos - SP, Cep: 12236700. <br/><br/>
 </p>
 
-<i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
+<i><b><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Estudante de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades.<br/>
 Minha atuação na área industrial desenvolvendo o controle e operação de máquinas e controle de ferramentas, podem contribuir para a nova área de atuação como a capacidade de resolução de problemas, comprometimento e organização.<br/>
-Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</font><br/><i/>
+Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e estou aberto a novas mudança profissionais/culturais. Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</font><br/><i/></b>
 
 <b><font COLOR="000000" size="3">-Email: raniel_sjc@yahoo.com.br<br/>
 -Tel/WhatsApp: (12) 991462406 / (12) 98859-4301<br/>
