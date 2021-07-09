@@ -4,8 +4,7 @@
 <br/>Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: Sao José dos Campos -SP<br/>
 Endereço: AV. Benedito Domingues Oliveira, 46
-Bairro: Jd. Morumbi,<br/>Sao José dos Campos - SP, Cep: 12236700. 
-Email: ranieI_sjc@yahoo.com.br <br/><br/>
+Bairro: Jd. Morumbi,<br/>Sao José dos Campos - SP, Cep: 12236700. <br/><br/>
 </p>
 
 <i><font COLOR="000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
