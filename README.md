@@ -1,4 +1,4 @@
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="150" height="180" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/><br/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="250" height="370" src="https://user-images.githubusercontent.com/83791169/125010990-02881900-e03e-11eb-8b93-aeb9172cb774.png"><br/><br/>
   
 <b><font FACE= "MrsEaves" COLOR="#000080" size="6">Raniel octavio carvalho de Souza</font></b><br/>
 
@@ -29,12 +29,6 @@ Introdução ao Git e ao Github.<br/>
 2021-2021<br/>
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raniel-octavio/RanielOctavioCarvalhodeSouza/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
