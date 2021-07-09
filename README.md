@@ -45,9 +45,9 @@ Sou uma pessoa com facilidade de aprendizado, entusiasta a novos desafios, e est
 <img align="left" width="130" height="150" src="https://user-images.githubusercontent.com/83791169/125018376-5a794c80-e04b-11eb-8c16-1bc45a3ae15e.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>AERO ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
-&nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência &nbsp;profissional que integra teoria e prática, estou desenvolvendo &nbsp;juntamente com a equipe o projeto elétrico e acompanhando desde &nbsp;as fases iniciais do projeto até a construção final da aeronave."<i/>
+&nbsp;<i>Descrição: Neste projeto que visa fornecer uma experiência &nbsp;profissional que integra teoria e prática, estou desenvolvendo &nbsp;juntamente com a equipe o projeto elétrico e acompanhando desde &nbsp;as fases iniciais do projeto até a construção final da aeronave.<i/>
 
 <img align="left" width="130" height="140" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg"><br/>
 &nbsp;&nbsp;&nbsp;<b>ATLÉTICA ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Diretor de esportes<br/>
-&nbsp;<i>Descrição: Como diretor de esportes busco incentivar a interação e &nbsp;integração dos alunos através da prática esportiva."<i/>
+&nbsp;<i>Descrição: Como diretor de esportes busco incentivar a interação e &nbsp;integração dos alunos através da prática esportiva.<i/>
