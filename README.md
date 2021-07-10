@@ -55,7 +55,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 &nbsp;&nbsp;&nbsp;Cargo: Projetista Elétrico<br/>
 &nbsp;&nbsp;&nbsp;Descrição: Neste projeto que visa fornecer uma experiência<br/>&nbsp;&nbsp;&nbsp;profissional que integra teoria e prática, estou desenvolvendo com a<br/>&nbsp;&nbsp;&nbsp;equipe o projeto elétrico e apoiando as demais áreas do projeto<br/>&nbsp;&nbsp;&nbsp;desde as fases iniciais até a construção final da aeronave.</font><br/>
 
-<img align="left" alt=etep width="120" height="100" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
+<img align="left" alt=etep width="120" height="105" src="https://user-images.githubusercontent.com/83791169/125019614-ba70f280-e04d-11eb-8bab-96f686d33aee.jpg">
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">ATLÉTICA ETEP<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Diretor de esportes<br/>
 &nbsp;&nbsp;&nbsp;Descrição: Como diretor de esportes busco incentivar a interação e<br/>&nbsp;&nbsp;&nbsp;integração dos alunos através da prática esportiva.</font>
