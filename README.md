@@ -3,7 +3,7 @@
 <img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: São José dos Campos -SP<br/>
-Endereço: AV. Benedito Domingues, 46
+Endereço: Av. Benedito Domingues, 46,
 Bairro: Jd. Morumbi,<br/>São José dos Campos - SP, Cep: 12236700.</font><br/><br/>
 </p>
 
