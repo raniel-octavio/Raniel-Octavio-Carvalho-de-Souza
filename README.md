@@ -34,7 +34,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125010374-c2746680-e03c-11eb-96e6-763a18ebdeed.png"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Digital Innovation One <br/>
 &nbsp;&nbsp;&nbsp;Introdução a criação de websites com HTML e CSS.<br/>
-&nbsp;&nbsp;&nbsp;2021-2021 - Cursando.</font><br/><br/>
+&nbsp;&nbsp;&nbsp;2021-2021.</font><br/><br/>
 
 ### <b><font COLOR="#000000" size="6">Experiência</font><br/></b>
 
