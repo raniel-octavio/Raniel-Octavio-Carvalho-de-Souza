@@ -1,4 +1,4 @@
-<b><font COLOR="#000000" size="12">Raniel Octavio Carvalho de Souza</b>
+<b><font COLOR="#000000" size="8">Raniel Octavio Carvalho de Souza<b>
 <p>
 <img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
