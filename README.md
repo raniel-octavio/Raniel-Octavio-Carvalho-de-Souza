@@ -1,10 +1,9 @@
-<p>
 <img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/126254282-6203e730-daa1-4e45-af75-ad9aed69ff6b.png">
 <b><font COLOR="#000000" size="4">Raniel Octavio Carvalho de Souza</font><b><br/><br/>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: São José dos Campos -SP<br/>
 Endereço: Av. Benedito Domingues, 46,
-Bairro: Jd. Morumbi,<br/>São José dos Campos - SP, Cep: 12236700.</font><br/><br/></p>
+Bairro: Jd. Morumbi,<br/>São José dos Campos - SP, Cep: 12236700.</font><br/><br/>
 
 <i><b><font COLOR="#000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Cursando o 3° semetre de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades, decidi começar cursos voltado para a área de Front-End e vi a satisfação de um ''mini projetinho'' concluído e/ou cada conteúdo de aprendizado colocado em prática com HTML; CSS; Bootstrap;.
@@ -16,7 +15,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 <b><font COLOR="#000000" size="3">-Email: raniel_sjc@yahoo.com.br<br/>
 -Tel/WhatsApp: (12) 991462406 / (12) 98859-4301<br/>
 -Linkedin: https://www.linkedin.com/in/raniel-octavio-b11a1b113/<br/>
--Github: https://github.com/raniel-octavio</font><br/></b>
+-Github: https://github.com/raniel-octavio</font><br/></b></b>
 
 ### <b><font COLOR="#000000" size="6">Formação Acadêmica</font><br/></b>
   
@@ -35,7 +34,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 &nbsp;&nbsp;&nbsp;Introdução a criação de websites com HTML5 e CSS3.<br/>
 &nbsp;&nbsp;&nbsp;2021-2021.</font><br/><br/>
 
-### <b><font COLOR="#000000" size="6">Experiência</font><br/></b>
+### <b><font COLOR="#000000" size="6">Experiência</font><br/></b></b>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Panasonic do Brasil<br/>
@@ -45,7 +44,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125018001-9b249600-e04a-11eb-92a7-51e86dc8f160.png"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">PDB Aerospace<br/>
 &nbsp;&nbsp;&nbsp;Cargo: Montador<br/>
-&nbsp;&nbsp;&nbsp;08/2013 - 05/2016.</font><br/><br/>
+&nbsp;&nbsp;&nbsp;08/2013 - 05/2016.</font><br/><br/></b>
   
 ### <b><font COLOR="#000000" size="6">Experiência de voluntariado</font><br/></b>
   
