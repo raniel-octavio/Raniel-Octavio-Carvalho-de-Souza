@@ -1,6 +1,7 @@
 
+<!--https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png-->
 <p>
-<img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png"><br/>
+<img  width="140" height="140" align="right" border-radius:"50%" src="https://user-images.githubusercontent.com/83791169/126254282-6203e730-daa1-4e45-af75-ad9aed69ff6b.png"><br/>
 <b><font COLOR="#000000" size="6">Raniel Octavio Carvalho de Souza<b><br/><br/></font>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: São José dos Campos -SP<br/>
