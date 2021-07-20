@@ -2,12 +2,11 @@
 <!--https://user-images.githubusercontent.com/83791169/125021407-f0fc3c80-e050-11eb-99ad-234d450ca49e.png-->
 <p>
 <img  width="140" height="140" align="right" src="https://user-images.githubusercontent.com/83791169/126254282-6203e730-daa1-4e45-af75-ad9aed69ff6b.png"><br/>
-<b><font COLOR="#000000" size="6">Raniel Octavio Carvalho de Souza</font><b><br/><br/>
+<b><font COLOR="#000000" size="4">Raniel Octavio Carvalho de Souza</font><b><br/><br/>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: São José dos Campos -SP<br/>
 Endereço: Av. Benedito Domingues, 46,
-Bairro: Jd. Morumbi,<br/>São José dos Campos - SP, Cep: 12236700.</font><br/><br/>
-</p>
+Bairro: Jd. Morumbi,<br/>São José dos Campos - SP, Cep: 12236700.</font><br/><br/></p>
 
 <i><b><font COLOR="#000000" size="3">Sou um profissional com 5 anos de experiência na área industrial, atualmente em transição de carreira para a área de Tecnologia da Informação.<br/>
 Cursando o 3° semetre de Engenharia da Computação, iniciei meus estudos nesta área pois sempre tive facilidade e grande paixão por tecnologia, tenho muito interesse em iniciar na área de TI para aplicar e desenvolver minha carreira e habilidades, decidi começar cursos voltado para a área de Front-End e vi a satisfação de um ''mini projetinho'' concluído e/ou cada conteúdo de aprendizado colocado em prática com HTML; CSS; Bootstrap;.
