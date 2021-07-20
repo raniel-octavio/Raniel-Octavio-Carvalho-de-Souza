@@ -34,7 +34,7 @@ Possuo curiosidade intelectual, capacidade analítica, determinação e foco.</f
 &nbsp;&nbsp;&nbsp;Introdução a criação de websites com HTML5 e CSS3.<br/>
 &nbsp;&nbsp;&nbsp;2021-2021.</font><br/><br/>
 
-  ### <b><font COLOR="#000000" size="6">Experiência</font><br/></b>
+### <b><font COLOR="#000000" size="6">Experiência</font><br/></b>
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/83791169/125018580-c78ce200-e04b-11eb-82f0-2c6af0975944.gif"><br/>
 &nbsp;&nbsp;&nbsp;<font COLOR="#000000">Panasonic do Brasil<br/>
