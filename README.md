@@ -1,5 +1,5 @@
 
-<b><font COLOR="#000000" size="7">Raniel Octavio Carvalho de Souza</font></b><br/>
+<b><font COLOR="#000000" size="5">Raniel Octavio Carvalho de Souza</font></b><br/>
 <font COLOR="#000000">Brasileiro - Solteiro - 29 anos<br/> 
 Naturalidade: São José dos Campos -SP<br/>
 Endereço: Av. Benedito Domingues, 46,
